@@ -12,7 +12,7 @@
 | **Сайт с виджетом для тестирования API** (нажмите «Ping» или «Отправить») | [https://dastfantast4-sys.github.io/fortis-dev/](https://dastfantast4-sys.github.io/fortis-dev/) |
 | **Базовый URL бэкенда** | [https://fortis-dev.onrender.com](https://fortis-dev.onrender.com) |
 | **Проверка статуса сервера** (`/ping`) – мгновенный ответ | [https://fortis-dev.onrender.com/ping](https://fortis-dev.onrender.com/ping) |
-| **Исходный код бэкенда** (репозиторий) | [https://github.com/dastfantast4-sys/fortis-dev/tree/main/backend](https://github.com/dastfantast4-sys/fortis-dev/tree/main/backend) |
+| **Исходный код бэкенда** (репозиторий) |https://github.com/dastfantast4-sys/fortis-dev/tree/43bfe593fe96f505edb9f72ea81f737cb511bdd3/backend|
 
 ---
 
