@@ -9,11 +9,11 @@
 
 | Что | Ссылка |
 |-----|--------|
-| Демо-сайт (виджет API) | [тык](https://dastfantast4-sys.github.io/fortis-dev/) |
-| Базовый URL бэкенда | [тык](https://fortis-dev.onrender.com) |
-| `/ping` – проверка | [тык](https://fortis-dev.onrender.com/ping) |
-| Swagger-документация | [тык](https://fortis-dev.onrender.com/api-docs) |
-| Код бэкенда | [тык](https://github.com/dastfantast4-sys/fortis-dev/tree/main/backend) |
+| Демо-сайт (виджет API) | (https://dastfantast4-sys.github.io/fortis-dev/) |
+| Базовый URL бэкенда | (https://fortis-dev.onrender.com) |
+| `/ping` – проверка | (https://fortis-dev.onrender.com/ping) |
+| Swagger-документация | (https://fortis-dev.onrender.com/api-docs) |
+| Код бэкенда | (https://github.com/dastfantast4-sys/fortis-dev/tree/main/backend) |
 
 ---
 
