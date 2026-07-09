@@ -28,14 +28,6 @@
 
 ---
 
-## 🧪 Проверка
-
-1. **Пинг** → [fortis-dev.onrender.com/ping](https://fortis-dev.onrender.com/ping) – ответ `{"status":"ok"}`
-2. **Виджет** → на [демо-сайте](https://dastfantast4-sys.github.io/fortis-dev/) в правом нижнем углу, нажмите «Отправить».
-3. **Swagger** → [fortis-dev.onrender.com/api-docs](https://fortis-dev.onrender.com/api-docs) – все методы.
-
----
-
 ## 📊 Технологии
 
 | Компонент | Технология |
@@ -74,7 +66,5 @@ REST API, MongoDB, JWT, валидация, деплой, документаци
 ## 📬 Контакты
 
 - GitHub: [@dastfantast4-sys](https://github.com/dastfantast4-sys)
-- Telegram: [@ваш_ник]
-- Email: ваша@почта.ру
-
-Лицензия: MIT.
+- Telegram: [@]
+- Email: dastfantast4@gmail.com
